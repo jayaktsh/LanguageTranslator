@@ -24,7 +24,7 @@ elif (lang1 == 3):
     from_lang = 'ko'
 elif (lang1 == 4):
     from_lang = 'fr'
-elif (lang1 == 2):
+elif (lang1 == 5):
     from_lang = 'it'
 else:
     print("enter valid input")
@@ -40,7 +40,7 @@ elif (lang2 == 3):
     to_lang = 'ko'
 elif (lang2 == 4):
     to_lang = 'fr'
-elif (lang2 == 2):
+elif (lang2 == 5):
     to_lang = 'it'
 else:
     print("enter valid input")
